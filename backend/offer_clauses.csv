@@ -1,0 +1,63 @@
+clause,label
+"Employee must serve a bond period of 2 years or pay Rs 1,00,000",bond
+A training bond of 18 months is mandatory for all new joiners,bond
+Failure to complete bond period will result in recovery of training costs,bond
+Employee agrees to serve minimum 2 years or refund training expenses,bond
+Bond period of 24 months applicable from date of joining,bond
+Breaking bond before completion will incur penalty of 2 months salary,bond
+Employee must complete bond period before resignation,bond
+"Training bond of Rs 50,000 applicable if leaving before 1 year",bond
+Employee must serve 90 days notice period before resignation,notice
+A notice period of 3 months is required from either party,notice
+Failure to serve notice period will result in salary deduction,notice
+Notice period can be bought out at 3 months salary,notice
+Either party may terminate with 60 days written notice,notice
+30 days notice required for all employees below manager level,notice
+Notice period of 2 months mandatory for senior positions,notice
+Company may waive notice period at its discretion,notice
+Employee shall not join any competitor for 1 year after leaving,non_compete
+Non-compete clause applicable for 2 years post employment,non_compete
+Employee cannot work in same industry for 12 months after resignation,non_compete
+Joining a competing firm within 6 months will result in legal action,non_compete
+Employee agrees not to solicit clients for 1 year after leaving,non_compete
+Non-compete applicable within same geographic region for 2 years,non_compete
+Employee shall not engage with competitors during and after employment,non_compete
+Violation of non-compete will result in damages and legal proceedings,non_compete
+All work produced during employment is property of the company,ip_ownership
+Any invention or creation during employment belongs to employer,ip_ownership
+Employee assigns all intellectual property rights to the company,ip_ownership
+"Code, designs and innovations created during tenure are company property",ip_ownership
+Employee waives all rights to work produced during employment,ip_ownership
+Company owns all patents and copyrights from employee work,ip_ownership
+All work product including side projects belongs to employer,ip_ownership
+Employee must disclose all inventions made during employment,ip_ownership
+Employee will receive 12 days of paid annual leave per year,normal
+Salary will be credited on the last working day of each month,normal
+Employee is entitled to medical insurance coverage from day one,normal
+Performance review will be conducted annually every April,normal
+Employee will receive provident fund contributions as per law,normal
+Work hours are 9am to 6pm Monday to Friday,normal
+Employee is entitled to 10 days sick leave per year,normal
+Salary increment will be based on annual performance review,normal
+Employee is required to complete a service bond of 3 years,bond
+"Leaving before bond completion requires payment of Rs 2,00,000",bond
+Bond amount will be recovered from full and final settlement,bond
+Service agreement of 2 years mandatory after training period,bond
+Immediate resignation without notice will lead to salary forfeiture,notice
+Notice period buyout option available at current CTC divided by 12,notice
+Employee serving notice period must complete all handover tasks,notice
+Company reserves right to accept or reject notice period buyout,notice
+Employee must not directly or indirectly work for competitors,non_compete
+Soliciting former colleagues after leaving is strictly prohibited,non_compete
+Employee cannot start competing business for 2 years post exit,non_compete
+Geographic restriction applies to entire country for non-compete,non_compete
+Side projects related to company business require prior approval,ip_ownership
+Employee must sign IP assignment agreement on joining date,ip_ownership
+All client data and business intelligence remains company property,ip_ownership
+Employee has no claim over tools or software built during tenure,ip_ownership
+Employee will be eligible for gratuity after 5 years of service,normal
+Company will reimburse travel expenses as per policy,normal
+Employee is entitled to maternity or paternity leave as per law,normal
+Dress code is business casual from Monday to Thursday,normal
+Employee will receive laptop and necessary equipment on day one,normal
+Annual bonus will be paid based on company and individual performance,normal

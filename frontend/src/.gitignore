@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+frontend/node_modules/
+frontend/dist/
+.ipynb_checkpoints/
+backend/*.ipynb
+backend/*.csv
